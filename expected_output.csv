@@ -1,0 +1,3 @@
+filename,invoice_number,invoice_date,total_amount,status
+invoice_001.pdf,INV-2026-001,2026-01-15,1100.00,ok
+invoice_002.pdf,INV-2026-002,2026-02-03,560.00,ok
